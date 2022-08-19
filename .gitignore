@@ -9,3 +9,4 @@ grape.egg-info
 *.webm
 tutorials/embedding
 .rotate
+.venv
